@@ -1,1 +1,1 @@
-'No Empty file test'
+No Empty file test
